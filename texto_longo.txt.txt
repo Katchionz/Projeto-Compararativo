@@ -1,0 +1,5 @@
+A alocação de memoria em linguagens como C++ exige muito cuidado com os ponteiros.
+Um bom algoritmo de busca analisa os dados rapidamente.
+Para garantir um bom desempenho do sistema, o algoritmo nao pode desperdiçar memoria.
+Os ponteiros apontam para regioes de dados que precisam ser limpas.
+O desempenho final do algoritmo depende das estruturas de dados utilizadas.
